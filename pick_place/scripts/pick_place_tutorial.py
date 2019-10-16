@@ -48,11 +48,9 @@ from tf.transformations import quaternion_from_euler
 
 ## Import msgs and srvs ##
 from geometry_msgs.msg import PoseStamped
-from trajectory_msgs.msg import JointTrajectory, JointTrajectoryPoint
-from tf2_geometry_msgs import tf2_geometry_msgs
-from moveit_msgs.msg import CollisionObject, DisplayTrajectory, Grasp, PlaceLocation
+from trajectory_msgs.msg import JointTrajectoryPoint
+from moveit_msgs.msg import DisplayTrajectory, Grasp, PlaceLocation
 from moveit_msgs.srv import ApplyPlanningScene
-from geometry_msgs.msg import Quaternion
 
 
 def openGripper(posture):
@@ -287,7 +285,6 @@ def addCollisionObjects(planning_scene_interface):
 
 
 if __name__ == "__main__":
-    """Main function"""
 
     ## Initialize ros node ##
     rospy.init_node("panda_arm_pick_place")

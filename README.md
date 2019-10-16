@@ -1,6 +1,6 @@
 # MoveIt! Tutorials python examples
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e75853cacd46490a85cd32996479f160)](https://www.codacy.com/app/rickstaa/Todoist_Global_Shortcuts_WIN10?utm_source=github.com&utm_medium=referral&utm_content=rickstaa/Todoist_Global_Shortcuts_WIN10&utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/77a1cced1b1f42ec9192020bea227334)](https://www.codacy.com/manual/rickstaa/moveit_tutorials_python_examples?utm_source=github.com&utm_medium=referral&utm_content=rickstaa/moveit_tutorials_python_examples&utm_campaign=Badge_Grade)
 [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green)](https://github.com/rickstaa/moveit_tutorials_python_examples/pulse)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)](contributing.md)
 
