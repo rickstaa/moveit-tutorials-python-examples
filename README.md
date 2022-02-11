@@ -12,7 +12,7 @@ This repository contains a number of python examples that were created based on 
 
 ## Contributing
 
-Contributions to this repository are welcome. See the [contribution guidelines](contributing.md) for more information.
+Contributions for the other C++ tutorials are welcome. See the [contribution guidelines](contributing.md) for more information.
 
 ## License
 
